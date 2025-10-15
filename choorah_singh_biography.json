@@ -1,0 +1,64 @@
+{
+  "id": "choorah_singh_001",
+  "name": "Choorah Singh",
+  "title": "Aviation Professional",
+  "location": "Global",
+  "summary": "Divisional Vice President & Head of Integrated Operations Control Centre at Air India Group. Former Director of Operations (Nominated Person Ground Operations) that launched Emerald Airlines. Almost 20 years’ experience at Ryanair Group
+including Chief Operating Officer & Managing Director of Laudamotion and Deputy Director Operations Control of Ryanair DAC. Collaborated with Europe’s five largest carriers to create Airlines for Europe (A4E) and deliver Single European Sky and SESAR initiatives. Represented airspace users at Eurocontrol’s Network Management Board, the European Commission, and various international bodies. Master of Science in Aviation Leadership.",
+  "skills": [
+    "Leadership",
+    "Strategy",
+    "Operational Excellence",
+    "Process Optimisation",
+    "Program & Change Management",
+    “Innovation”,
+     “Aviation Systems”,
+     “Digital Transformation”, 
+     “Data-Driven Decision Making”,
+    “Vendor Management”,
+    “Global Airline, Airport & Airspace Operations”,
+    “Crisis Management”,
+    “Aviation Safety & Regulatory Compliance”
+  ],
+  "experience": [
+    {
+      "role": "Divisional Vice President & Group Head of IOCC",
+      "organization": "Air India Group",
+      "start_year": 2024,
+      "end_year": null,
+      "description": "Defined and executed the strategic transformation and merger of four airline operations control functions into a purpose-built state-of-the-art IOCC. Implemented new core systems, harmonized processes, and integrated cross-functional teams of 500+ people in Flight Dispatch, Crew Planning, Customer Recovery, Systems & Data Analytics, and Safety & Compliance. Defined three-year Operations Transformation Master Plan that sets vision and strategic objectives to become the world’s most technologically advanced airline operations."
+    },
+    {
+      "role": "Director of Operations & Sustainability (Nominated Person Ground Operations)",
+      "organization": "Emerald Airlines",
+      "start_year": 2021,
+      "end_year": 2023,
+      "description": "Launched new airline and grew from two to 14 aircraft in less than six months. Built Ops Control Centre and team of 75 people, established partnerships with vendors, implemented new systems and defined manuals to secure legal and regulatory certifications. Wrote business plan and secured Board approval to fund dedicated ground handling company in Dublin airport following third party service provider failures."
+    },
+        {
+      "role": "Chief Operating Officer & Managing Director",
+      "organization": "Laudamotion",
+      "start_year": 2019,
+      "end_year": 2020,
+      "description": "Executed strategic vision of Ryanair Group CEO, Michael O’Leary and delivered transformational change by applying proven low-cost strategies and integrating the loss-making airline into Ryanair Group. Oversaw day-to-day operation and ensured alignment with organisational goals by leading 4 Nominated Persons and cross-functional teams of 120+ personnel in Flight Ops, Ground Ops, Engineering, and Safety & Compliance."
+    },
+        {
+      "role": "Deputy Director Operations Control",
+      "organization": "Ryanair",
+      "start_year": 2009,
+      "end_year": 2019,
+      "description": "Delivered industry leading on time performance for 10 years by leading cross-functional teams of 100+ people. Scaled systems and people during period of exponential growth from 200 to 550 aircraft through digitalisation and automation. Led Ryanair’s involvement in creating Airlines for Europe (A4E) and collaborated with aviation stakeholders, associations and international bodies to modernise and reform Europe’s air traffic management systems under the European Commission’s Digital European Sky initiative."
+    }
+  ],
+  "education": [
+    {
+      "institution": " Dublin City University",
+      "degree": " Master of Science in Management (Aviation Leadership)",
+    }
+  ],
+  "links": {
+    "website": "https://choorah-singh.com",
+    "linkedin": "https://www.linkedin.com/in/choorahsingh"
+  },
+  "license": "CC0 1.0 Universal (Public Domain Dedication)"
+}
